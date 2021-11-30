@@ -61,4 +61,4 @@ Dillinger uses a number of open source projects to work properly:
 - [MySql/MariaDb]
 - [Apache]
 
- [erd]: <https://github.com/Michal3456/3ai4/blob/main/11/erd.png>
+ [erd]: <https://github.com/Michal3456/3ai4/blob/main/11/sprites/erd.png>
