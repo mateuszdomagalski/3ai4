@@ -39,9 +39,6 @@ The above functionalities are tested and work according to their roles.
 
 [link to diagram ERD in jpg][erd]
 
-## Organizational structure diagram
-
-[link to diagram OSD in jpg][osd]
 
 ## Cpecific functionalities
 
@@ -65,4 +62,3 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
  [erd]: <https://github.com/Michal3456/3ai4/blob/main/11/sprites/erd.png>
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/orgchart.png>
