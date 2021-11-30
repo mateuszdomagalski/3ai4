@@ -60,6 +60,6 @@ Dillinger uses a number of open source projects to work properly:
 
 
 
- [erd]: <https://github.com/jakrat/3ai4/blob/main/14/sprites/project_diagram.png>
+ [erd]: 
 
- [osd]: <https://github.com/jakrat/3ai4/blob/main/14/sprites/orgchart.png>
+ [osd]: <https://github.com/Michal3456/3ai4/blob/main/14/sprites/orgchart.png>
