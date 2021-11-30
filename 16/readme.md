@@ -1,7 +1,7 @@
-# Smart home monitoring system
+# Shop for NASA
 
 
-## _contractor: Jakub Ratkowski_
+## _contractor: Dawid Skiczyński_
 ## _principal: Michał Czerwiński_
 
 
@@ -9,20 +9,20 @@
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 30.11.2021 | adding ERD |
-| 1.2 | 30.11.2021 | adding organizational structure |
+| 1.2 | 30.11.2021 | adding osd |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract
-This project is about monitoring house status.
+This project is special shop for NASA
 
 
 ## Data structure
 
 | data | type |
 | ------ | ------ |
-| INPUT | turn on app |
-| OUTPUT | giving information about your home status |
+| INPUT | none |
+| OUTPUT | giving information about products, short information and prize |
 
 ## Main functionalities
 
