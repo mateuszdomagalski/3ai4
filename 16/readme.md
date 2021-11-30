@@ -59,4 +59,4 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
 
- [osd]: <https://github.com/DawidSkiczynski/3ai4/blob/main/16/sprites/orgchart.png>
+ [osd]: <https://github.com/Michal3456/3ai4/blob/main/16/sprites/orgchart.png>
